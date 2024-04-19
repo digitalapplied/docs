@@ -51,11 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
@@ -65,14 +61,13 @@
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/reusable-snippets",
+        "essentials/generative-ai"
       ]
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
